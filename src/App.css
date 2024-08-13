@@ -36,3 +36,25 @@
     transform: rotate(360deg);
   }
 }
+
+
+.font h2 {
+  font-size: 45px;
+}
+
+
+.container{
+  font-family: 'Ubuntu', sans-serif;
+
+}
+
+.font h1{
+  font-family: 'Ubuntu', sans-serif;
+  color: rgb(10, 96, 107);
+}
+
+h2{
+
+  font-family: 'Ubuntu', sans-serif;
+  
+}
